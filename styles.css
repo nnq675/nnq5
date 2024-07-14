@@ -1,0 +1,35 @@
+.flex {
+    display: flex;
+    background-color: yellow;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 32px 0px;
+}
+button {
+    font-family: 'Times New Roman', Times, serif, monospace;
+}
+.btn-black {
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+    border: none;
+    margin: 0px 8px;
+}
+.btn-white{
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+    border: none;
+    margin: 0px 8px;
+}
